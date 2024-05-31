@@ -1,0 +1,40 @@
+.card {
+    background-color: light-dark(var(--mantine-color-white), var(--mantine-color-dark-7));
+    border-color: #ccc !important;
+    border-width: 1.5px;
+}
+
+.card:hover {
+    box-shadow: 1px 0px 30px 2px #eee;
+}
+
+.section {
+    padding-left: var(--mantine-spacing-md);
+    padding-right: var(--mantine-spacing-md);
+    text-align: center;
+}
+
+.link {
+    transition: all .3s;
+}
+
+.label {
+    text-transform: uppercase;
+    font-size: var(--mantine-font-size-xs);
+    font-weight: 700;
+    text-align: center;
+}
+
+.badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10;
+}
+
+.rating {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 10;
+}

@@ -1,0 +1,14 @@
+.control {
+  
+    &:hover {
+      color: #000;
+    }
+  
+    &[data-active] > label > span {
+      color: #000;
+    }
+}
+
+.richText > * {
+  word-break: break-all;
+}

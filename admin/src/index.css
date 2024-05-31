@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+
+* {
+  font-family: "Cairo", sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.rdt_Pagination {
+  justify-content: flex-start !important;
+  /* margin: auto auto auto 0; */
+}
+
+.rdt_Pagination > div:last-child {
+  margin: auto auto auto 0;
+  gap: 5px;
+}
+
+.rdt_Pagination > div:last-child button {
+  border-radius: 5px;
+  height: 30px;
+  width: 30px;
+  padding: 3px;
+  fill: #fff;
+}
+
+.rdt_Pagination > div:last-child button[aria-disabled="false"] {
+  background: #323232;
+}
+
+.rdt_Pagination > div:last-child button[aria-disabled="true"] {
+  background: #e6e6e6;
+}

@@ -1,0 +1,1095 @@
+{
+    "currency": "DA",
+    "listLanguages": {
+        "arabic": "Arabic",
+        "english": "English"
+    },
+    "sidebar": {
+        "link01": "Home",
+        "link02": "Products",
+        "link03": "Orders",
+        "link04": "Categories",
+        "link05": "Shipping",
+        "link06": "Marketing",
+        "link07": "landing page",
+        "link08": "Settings",
+        "link09": "Users",
+        "logOut": "log out"
+    },
+    "loginPage": {
+        "Title": "welcome back",
+        "label01": "Email",
+        "placeholder01": "mail@example.com",
+        "label02": "password",
+        "submit": "Log in",
+
+        "schemaEmail": "E-mail field is required",
+        "schemaEmail2": "Email must be valid",
+        "schemaEmail3": "E-mail must be at least two characters long",
+
+        "schemaPassword": "Password field is required",
+        
+        "alert01": "This email does not exist",
+        "alert02": "Password is incorrect",
+        "alert03": "Email has not been verified",
+        "alert04": "Your account is blocked"
+    },
+    "homePage": {
+        "title": "Welcome",
+        "description": "Tajer platform provides you with all the means you need to facilitate the sale of your products, enhance your credibility online, and create an online store.",
+        "link": "Visit Store",
+        "sectionTitel01": "General Statistics",
+        "statisticCard01": {
+            "title": "Incomes",
+            "statisticsTotal": "total income today",
+            "statistic01": "Total Sales",
+            "statistic02": "Net Profit"
+        },
+        "statisticCard02": {
+            "title": "Requests",
+            "statisticsTotal": "Total number of requests",
+            "statistic01": "confirmed",
+            "statistic02": "pending",
+            "statistic03": "Rejected"
+        },
+        "statisticCard03": {
+            "title": "products",
+            "statisticsTotal": "Total number of products",
+            "statistic01": "published",
+            "statistic02": "Unpublished"
+        },
+        "sectionTitel02": "Top Selling Products",
+        "sectionTitel03": "Top-selling landing pages"
+       
+    },
+    "productsPage": {
+        "name": "products",
+        "links": {
+            "link01": "Control Panel",
+            "link02": "Product List"
+        },
+        "labelCreate": "Add product",
+        "labelExport": "export",
+        "tags": {
+            "tag01": "All Products",
+            "tag02": "post",
+            "tag03": "Unpublished"
+        },
+        "placeholderInput": "Search for product",
+        "addProduct": "Add Product",
+        "updateProduct": "Edit Product",
+        "showProduct": "Product"
+    },
+    "ordersPage": {
+        "name": "orders",
+        "links": {
+            "link01": "Control Panel",
+            "link02": "Want List"
+        },
+        "labelExport": "export",
+        "tags": {
+            "tag01": "Waiting",
+            "tag02": "confirmed",
+            "tag03": "rejected",
+            "tag04": "Abandoned Requests"
+        },
+        "placeholder": "search",
+        "updateOrder": "Modify order",
+        "confirmedOrder": "order delivery",
+        "dialogExport": {
+            "tags": {
+                "tag01": "all",
+                "tag02": "this month",
+                "tag03": "time period"
+            },
+            "placeholder": "Choose a start date and an end date",
+            "text01": "All requests will be exported and this will take some time",
+            "text02": "All orders this month will be exported",
+            "button": "export"
+        },
+        "showOrder": "Order"
+    },
+    "categoriesPage": {
+        "name": "categories",
+        "links": {
+            "link01": "Control Panel",
+            "link02": "Category List"
+        },
+        "labelCreate": "Add a category",
+        "labelExport": "export",
+       
+        "addCategory": "Add a category",
+        "updateCategory": "Edit Category"
+    },
+    "shippingPage": {
+        "name": "shipping",
+        "links": {
+            "link01": "Control Panel",
+            "link02": "List of shipping companies"
+        },
+        "labelCreate": "Add shipping company",
+        "labelExport": "export",
+       
+        "addShipping": "Add a shipping company",
+        "updateShipping": "Modify shipping company"
+    },
+    "marketingPage": {
+        "name": "marketing",
+        "links": {
+            "link01": "Control Panel",
+            "link02": "Pixel List"
+        },
+        "labelCreate": "Add pixel",
+        "labelExport": "export",
+       
+        "addMarketing": "Add Pixel",
+        "updateMarketing": "pixel adjustment"
+    },
+    "landingPage": {
+        "name": "landing page",
+        "links": {
+            "link01": "Control Panel",
+            "link02": "Page List"
+        },
+        "labelCreate": "Add page",
+        "labelExport": "export",
+       
+        "addLandingProduct": "Add landing page",
+        "updateLandingProduct": "Edit landing page",
+        "showLandingProduct": "Landing Page"
+    },
+    "settingsPage": {
+        "name": "settings",
+        "links": {
+            "link01": "Control Panel",
+            "link02": "Settings"
+        },
+
+        "title01": "Account Settings",
+        "title02": "Other settings",
+
+        "card01": {
+            "title": "Edit account information",
+            "description": "Edit account information"
+        },
+        "card02": {
+            "title": "Modify password",
+            "description": "Modify password"
+        },
+        "card03": {
+            "title": "Delivery Pricing",
+            "description": "Delivery rates"
+        },
+        "card04": {
+            "title": "Google Sheets",
+            "description": "Google Sheets"
+        },
+        "card05": {
+            "title": "Design",
+            "description": "design"
+        },
+        "card06": {
+            "title": "Download applications",
+            "description": "Download applications"
+        },
+       
+        "updateSpreadsheet": "Modify Spreadsheet ID",
+        "updateUser": "Edit Account",
+        "updatePasswordUser": "Modify password",
+        "updatePricesDelivery": "Modify delivery prices",
+
+        "updateDesign": "Design",
+        "addHeader": "Banner Design",
+        "addTopBar": "Top Bar Design",
+        "showQRStore": "Mobile application download link",
+        "updateStoreInfo": "Edit store information"
+    },
+    "usersPage": {
+        "name": "Users",
+        "links": {
+            "link01": "Control Panel",
+            "link02": "Users List"
+        },
+
+        "labelCreate": "Add user",
+        
+        "addUser": "Add User",
+        "updateUser": "Edit User"
+    },
+    "tables": {
+        "emptyLable": "No data found",
+        "rowsPerPageText": "Lines per page",
+        "rangeSeparatorText": "from",
+        "home": {
+            "productsStatisticsTabel": {
+                "row01": "product",
+                "row02": "price",
+                "row03": "Price x",
+                "row04": "registration date",
+                "row05": "number of sales",
+                "imagesLable": "Images"
+            },
+           
+            "landingProductsStatisticsTabel": {
+                "row01": "product",
+                "row02": "price",
+                "row03": "registration date",
+                "row04": "number of sales",
+                "linkLable": "link"
+            }
+        },
+        "products": {
+            "row01": "product",
+            "row02": "price",
+            "row03": "Price x",
+            "row04": "category",
+            "row05": "status",
+            "row06": "registration date",
+            "row07": "options",
+            "imagesLable": "images",
+            "badge01": "published",
+            "badge02": "Unpublished"
+        },
+        "orders": {
+            "row01": "product",
+            "row02": "Customer Name",
+            "row03": "phone number",
+            "row04": "price",
+            "row05": "quantity",
+            "row06": "Order Status",
+            "row07": "order date",
+            "row08": "state",
+            "row09": "options",
+            "row10": "delivery company",
+            "imagesLable": "images",
+            "badge01": "Pending",
+            "badge02": "confirmed",
+            "badge03": "rejected",
+            "badge04": "Request abandoned",
+            "confirmedStatus": "confirm",
+            "closedStatus": "Rejected",
+            "deliveryStatus": "delivery",
+            "edit": "edit",
+            "delete": "delete",
+            "copy": "copy",
+            "copied": "copied",
+            "refresh": "Resend"
+        },
+        "categories": {
+            "row01": "Category",
+            "row02": "subcategories",
+            "row03": "registration date",
+            "row04": "Options"
+        },
+        "shipping": {
+            "row01": "Company",
+            "row02": "Api Key",
+            "row03": "Api Token",
+            "row04": "registration date",
+            "row05": "options"
+        },
+        "marketing": {
+            "row01": "name",
+            "row02": "Api Key",
+            "row03": "registration date",
+            "row04": "Options"
+        },
+        "landing": {
+            "row01": "product",
+            "row02": "price",
+            "row03": "shipping",
+            "row04": "registration date",
+            "row05": "options",
+            "linkLable": "link"
+        },
+        "users": {
+            "row01": "full name",
+            "row02": "email",
+            "row03": "phone",
+            "row04": "role",
+            "badge01": "responsible",
+            "badge02": "confirmed requests",
+            "row05": "registration date",
+            "row06": "options"
+        }
+    },
+    "modals": {
+        "cancelling": "cancel",
+        "confirmation": "confirmation",
+        "delete": "delete",
+        "deleteCategory": {
+            "alert01": "Category deleted",
+            "alert02": "Failed to delete category",
+            "message": "Are you sure you want to delete the category?"
+        },
+        "deleteLandingProduct": {
+            "alert01": "Landing page has been deleted",
+            "alert02": "Failed to delete category",
+            "message": "Are you sure you want to delete the landing page?"
+        },
+        "deleteMarketing": {
+            "alert01": "Pixel deleted",
+            "alert02": "Failed to delete pixel",
+            "message": "Are you sure you want to delete the pixel?"
+        },
+        "deleteOrder": {
+            "alert01": "The request has been deleted",
+            "alert02": "Failed to delete request",
+            "message": "Are you sure you want to delete the request?"
+        },
+        "deleteProduct": {
+            "alert01": "The product has been deleted",
+            "alert02": "Failed to delete product",
+            "message": "Are you sure you want to delete the product?"
+        },
+        "deleteShipping": {
+            "alert01": "Shipping company has been deleted",
+            "alert02": "Failed to delete shipping company",
+            "message": "Are you sure you want to delete the shipping company?"
+        },
+        "deleteUser": {
+            "alert01": "Account has been deleted",
+            "alert02": "Account deletion failed",
+            "message": "Are you sure you want to delete the account?"
+        },
+        "addCategory": {
+            "alert01": "Category added",
+            "alert02": "Failed to add category",
+            "schemaName": "The name field is required",
+            "text01Dropzone": "Drag an image here or click to select the image",
+            "text02Dropzone": "Attach a thumbnail, size must not exceed 5MB",
+            "label01": "thumbnail",
+            "label02": "Category Name",
+            "placeholder02": "Enter category name",
+
+            "addSubCategories": "Add a subcategory",
+
+            "label03": "subcategory",
+            "placeholder03": "subcategory"
+        },
+        "addLandingProduct": {
+            "alert01": "Landing page added",
+            "alert02": "Failed to add landing page",
+            "schemaName": "The name field is required",
+            "schemaName2": "The name must be at least two characters long",
+            "schemaPrice": "Price field is required",
+            "schemaPrice2": "Price must be greater than 0",
+            "schemaCost": "Cost field is required",
+           
+            "label01": "Product Name",
+            "placeholder01": "Enter a suitable name for the product",
+           
+            "label02": "price",
+            "placeholder02": "Enter the product price",
+           
+            "label03": "cost",
+            "placeholder03": "Enter the cost of the product without interest",
+           
+            "label04": "Enter the size and press Enter",
+            "placeholder04": "Enter the available sizes of the product",
+           
+            "label05": "Choose colours",
+            "label06": "Free Shipping",
+            "label07": "Do you have offers?",
+
+            "addOffer": "Add an offer",
+            "labelOffer": "offer",
+           
+            "label09": "Description",
+            "placeholder09": "Enter display name",
+           
+            "label10": "price",
+            "placeholder10": "Enter the total bid price",
+           
+            "label11": "quantity",
+            "placeholder11": "Enter the number of pieces in the offer",
+           
+            "label12": "Free Shipping",
+           
+            "label13": "Landing page image",
+
+            "text01Dropzone": "Drag an image here or click to select the image",
+            "text02Dropzone": "Attach a thumbnail, size must not exceed 10MB"
+        },
+        "addMarketing": {
+            "alert01": "Pixel added",
+            "alert02": "Failed to add pixel",
+            "schemaName": "The name field is required",
+            "schemaApiKey": "The key must be at least two characters long",
+            "schemaApiKey2": "Key field is mandatory",
+
+            "label01": "pixel name",
+            "placeholder01": "Enter the pixel name",
+
+            "label02": "Api Key",
+            "placeholder02": "Enter the API Key",
+
+            "label03": "Access Token",
+            "placeholder03": "Enter the Access Token"
+        },
+        "addProduct": {
+            "alert01": "Product added",
+            "alert02": "Failed to add product",
+
+            "schemaName": "The name field is required",
+            "schemaName2": "The name must be at least two characters long",
+            "schemaPrice": "Price field is required",
+            "schemaPrice2": "Price must be greater than 0",
+            "schemaCost": "Cost field is required",
+            "schemaShortDescription": "The short description field is required",
+            "schemaShortDescription2": "The short description must be at least two characters long",
+            "schemaOffersName": "The name field is required",
+            "schemaOffersPrice": "Price field is required",
+            "schemaOffersQuantity": "Quantity field is required",
+
+            "schemaOffersName2": "The name must be at least two characters long",
+            "schemaOffersPrice2": "Price must be greater than 0",
+            "schemaOffersQuantity2": "Quantity must be greater than 0",
+           
+            "label00": "thumbnail",
+            "text01Dropzone": "Drag an image here or click to select the image",
+            "text02Dropzone": "Attach a thumbnail, size must not exceed 5MB",
+       
+            "label01": "Product Name",
+            "placeholder01": "Enter a suitable name for the product",
+            "label02": "Short Description",
+            "placeholder02": "Enter a short and expressive description",
+            "label03": "Description",
+            "label04": "Do you have a discount?",
+           
+            "label05": "price",
+            "placeholder05": "Enter the price of the product",
+            "label06": "cost",
+            "placeholder06": "Enter the cost of the product without interest",
+            "label07": "Price after discount",
+            "placeholder07": "Enter the price after discount",
+            "label08": "weight",
+            "placeholder08": "Enter the weight of the product",
+            "label09": "Enter the size and press Enter",
+            "placeholder09": "Enter the available sizes of the product",
+            "label10": "Category",
+            "placeholder10": "Select the product category or category group",
+            "label11": "subcategory",
+            "placeholder11": "Choose product subcategories after selecting the main category",
+            "label12": "Choose colors",
+            "label13": "Free Shipping",
+            "label14": "published",
+            "label15": "Activate Upsell service",
+            "label16": "Do you have offers?",
+            "addOffer": "Add an offer",
+            "labelOffer": "offer",
+
+            "label17": "Description",
+            "placeholder17": "Enter display name",
+
+            "label18": "price",
+            "placeholder18": "Enter the total bid price",
+
+            "label19": "quantity",
+            "placeholder19": "Enter the number of pieces in the offer",
+
+            "label20": "Free Shipping",
+            "label21": "Additional images",
+            
+            "label22": "Rating",
+            "placeholder22": "rating",
+
+            "text01Dropzone2": "Drag an image or group of images here or click to select images",
+            "text02Dropzone2": "Attach an image or group of images, and the size of each image must not exceed 5 MB"
+       
+        },
+        "addShipping": {
+            "alert01": "Shipping company added",
+            "alert02": "Failed to add shipping company",
+
+            "schemaName": "Company name field is required",
+            "schemaName2": "Company name field is required",
+            "schemaApiKey": "Key field is mandatory",
+            "schemaApiKey2": "The key field must be greater than two characters",
+            "schemaApiToken": "Token field is required",
+            "schemaApiToken2": "The token field must be greater than two characters",
+        
+            "label01": "Delivery company name",
+            "placeholder01": "Enter the name of the delivery company",
+           
+            "label02": "Api Key",
+            "placeholder02": "Enter the API Key",
+           
+            "label03": "Api Token",
+            "placeholder03": "Enter the code (Api Token)"
+        },
+        "addGoogleSheets": {
+            "alert01": "linked",
+            "alert02": "Link Failed",
+            "label01": "Google Sheets Code",
+            "placeholder01": "Enter the code you received",
+            "list": {
+                "item01": "unlock",
+                "item01_1": "link",
+                "item01_2": "Next to get Google Sheets permissions.",
+                "item02": "Select the email you use in Google Sheets.",
+                "item03": "You will see a warning message, click Continue.",
+                "item04": "You will be asked for permission to access your account information. Click Continue.",
+                "item05": "A window will appear with the authorization code inside it. Copy and paste it into the field below, then click Link."
+            }
+        },
+        "updateCategory": {
+            "alert01": "The category has been modified",
+            "alert02": "Category modification failed",
+            "schemaName": "The name field is required",
+            "text01Dropzone": "Drag an image here or click to select the image",
+            "text02Dropzone": "Attach a thumbnail, size must not exceed 5MB",
+            "label01": "thumbnail",
+            "label02": "Category Name",
+            "placeholder02": "Enter category name",
+
+            "addSubCategories": "Add a subcategory",
+
+            "label03": "subcategory",
+            "placeholder03": "subcategory"
+        },
+        "updateLandingProduct": {
+            "alert01": "The landing page has been modified",
+            "alert02": "Failed to modify landing page",
+            "schemaName": "The name field is required",
+            "schemaName2": "The name must be at least two characters long",
+            "schemaPrice": "Price field is required",
+            "schemaPrice2": "Price must be greater than 0",
+            "schemaCost": "Cost field is required",
+           
+            "label01": "Product Name",
+            "placeholder01": "Enter a suitable name for the product",
+           
+            "label02": "price",
+            "placeholder02": "Enter the product price",
+           
+            "label03": "cost",
+            "placeholder03": "Enter the cost of the product without interest",
+           
+            "label04": "Enter the size and press Enter",
+            "placeholder04": "Enter the available sizes of the product",
+           
+            "label05": "Choose colours",
+            "label06": "Free Shipping",
+            "label07": "Do you have offers?",
+
+            "addOffer": "Add an offer",
+            "labelOffer": "offer",
+           
+            "label09": "Description",
+            "placeholder09": "Enter display name",
+           
+            "label10": "price",
+            "placeholder10": "Enter the total bid price",
+           
+            "label11": "quantity",
+            "placeholder11": "Enter the number of pieces in the offer",
+           
+            "label12": "Free Shipping",
+           
+            "label13": "Landing page image",
+
+            "text01Dropzone": "Drag an image here or click to select the image",
+            "text02Dropzone": "Attach a thumbnail, size must not exceed 10MB"
+        },
+        "updateMarketing": {
+            "alert01": "Pixel modified",
+            "alert02": "Pixel adjustment failed",
+            "schemaName": "The name field is required",
+            "schemaApiKey": "The key must be at least two characters long",
+            "schemaApiKey2": "Key field is mandatory",
+
+            "label01": "pixel name",
+            "placeholder01": "Enter the pixel name",
+
+            "label02": "Api Key",
+            "placeholder02": "Enter the API Key",
+
+            "label03": "Access Token",
+            "placeholder03": "Enter the Access Token"
+        },
+        "updateProduct": {
+            "alert01": "The product has been modified",
+            "alert02": "Product modification failed",
+
+            "schemaName": "The name field is required",
+            "schemaName2": "The name must be at least two characters long",
+            "schemaPrice": "Price field is required",
+            "schemaPrice2": "Price must be greater than 0",
+            "schemaCost": "Cost field is required",
+            "schemaShortDescription": "The short description field is required",
+            "schemaShortDescription2": "The short description must be at least two characters long",
+            "schemaOffersName": "The name field is required",
+            "schemaOffersPrice": "Price field is required",
+            "schemaOffersQuantity": "Quantity field is required",
+
+            "schemaOffersName2": "The name must be at least two characters long",
+            "schemaOffersPrice2": "Price must be greater than 0",
+            "schemaOffersQuantity2": "Quantity must be greater than 0",
+           
+            "label00": "thumbnail",
+
+            "text01Dropzone": "Drag an image here or click to select the image",
+            "text02Dropzone": "Attach a thumbnail, size must not exceed 5MB",
+       
+            "label01": "Product Name",
+            "placeholder01": "Enter a suitable name for the product",
+            "label02": "Short Description",
+            "placeholder02": "Enter a short and expressive description",
+            "label03": "Description",
+            "label04": "Do you have a discount?",
+           
+            "label05": "price",
+            "placeholder05": "Enter the price of the product",
+            "label06": "cost",
+            "placeholder06": "Enter the cost of the product without interest",
+            "label07": "Price after discount",
+            "placeholder07": "Enter the price after discount",
+            "label08": "weight",
+            "placeholder08": "Enter the weight of the product",
+            "label09": "Enter the size and press Enter",
+            "placeholder09": "Enter the available sizes of the product",
+            "label10": "Category",
+            "placeholder10": "Select the product category or category group",
+            "label11": "subcategory",
+            "placeholder11": "Choose product subcategories after selecting the main category",
+            "label12": "Choose colors",
+            "label13": "Free Shipping",
+            "label14": "published",
+            "label15": "Activate Upsell service",
+            "label16": "Do you have offers?",
+            "addOffer": "Add an offer",
+            "labelOffer": "offer",
+
+            "label17": "Description",
+            "placeholder17": "Enter display name",
+
+            "label18": "price",
+            "placeholder18": "Enter the total bid price",
+
+            "label19": "quantity",
+            "placeholder19": "Enter the number of pieces in the offer",
+
+            "label20": "Free Shipping",
+            "label21": "Additional images",
+            
+            "label22": "Rating",
+            "placeholder22": "rating",
+
+            "text01Dropzone2": "Drag an image or group of images here or click to select images",
+            "text02Dropzone2": "Attach an image or group of images, and the size of each image must not exceed 5 MB"
+       
+        },
+        "updateShipping": {
+            "alert01": "The shipping company has been modified",
+            "alert02": "Failed to modify shipping company",
+
+            "schemaName": "Company name field is required",
+            "schemaName2": "Company name field is required",
+            "schemaApiKey": "Key field is mandatory",
+            "schemaApiKey2": "The key must be at least two characters long",
+            "schemaApiToken": "Token field is required",
+            "schemaApiToken2": "The token must be at least two characters long",
+           
+            "label01": "Delivery company name",
+            "placeholder01": "Enter the name of the delivery company",
+           
+            "label02": "Api Key",
+            "placeholder02": "Enter the API Key",
+           
+            "label03": "Api Token",
+            "placeholder03": "Enter the code (Api Token)"
+        },
+        "updateOrder": {
+            "alert01": "The order has been modified",
+            "alert02": "Failed to modify request",
+
+            "schemaName": "The name field is required",
+            "schemaName2": "The name must be at least two characters long",
+            "schemaPhone": "Phone field is required",
+            "schemaPhone2": "The phone must have at least 10 numbers and start with 05, 06, or 07.",
+            "schemaQuantity": "Quantity field is required",
+            "schemaQuantity2": "The quantity must be greater than 0",
+            "schemaTypeFee": "Connection type field is required",
+            "schemaAddress": "Address field is required",
+            "schemaAddress2": "",
+            "schemaState": "State field is required",
+            "schemaState2": "",
+            "schemaCity": "The municipality field is required",
+            "schemaCity2": "",
+
+            "label01": "full name",
+            "placeholder01": "full name",
+            "label02": "phone number",
+            "placeholder02": "phone number",
+            "label03": "State",
+            "placeholder03": "State",
+            "label04": "Municipality",
+            "placeholder04": "municipality",
+            "label05": "title",
+            "placeholder05": "address",
+            "label06": "Connection Type",
+            "placeholder06": "connection type",
+           
+            "labelSelect01": "Delivery to office",
+            "labelSelect02": "Home Delivery",
+
+            "label07": "quantity",
+            "placeholder07": "Quantity"
+        },
+        "changeStatusOrder": {
+            "alert01": "The order status has changed",
+            "alert02": "Failed to change order status",
+
+            "schemaName": "The name field is required",
+            "schemaName2": "The name must be at least two characters long",
+            "schemaPhone": "Phone field is required",
+            "schemaPhone2": "The phone must have at least 10 numbers and start with 05, 06, or 07.",
+            "schemaQuantity": "Quantity field is required",
+            "schemaQuantity2": "The quantity must be greater than 0",
+            "schemaTypeFee": "Connection type field is required",
+            "schemaAddress": "Address field is required",
+            "schemaAddress2": "",
+            "schemaState": "State field is required",
+            "schemaState2": "",
+            "schemaCity": "The municipality field is required",
+            "schemaCity2": "",
+
+            "nextButton": "next",
+            "prevButton": "prev",
+            "labelButton01": "Confirm",
+            "labelButton02": "Reject",
+
+            "title01": "Order Confirmation",
+            "title02": "Request rejected",
+
+            "text01": "Are you sure",
+            "text02": "Request?",
+
+            "label00": "Do you want to add it to a delivery company?",
+            "placeholder00": "Select the delivery company",
+
+            "text03": "The request must be amended and these errors corrected:",
+
+            "label01": "full name",
+            "placeholder01": "full name",
+            "label02": "phone number",
+            "placeholder02": "phone number",
+            "label03": "State",
+            "placeholder03": "State",
+            "label04": "Municipality",
+            "placeholder04": "municipality",
+            "label05": "title",
+            "placeholder05": "address",
+            "label06": "Connection Type",
+            "placeholder06": "connection type",
+           
+            "labelSelect01": "Delivery to office",
+            "labelSelect02": "Home Delivery",
+
+            "label07": "quantity",
+            "placeholder07": "Quantity"
+        },
+        "confirmedOrder": {
+            "alert01": "The order has been modified",
+            "alert02": "Failed to modify request",
+
+            "schemaName": "The name field is required",
+            "schemaName2": "The name must be at least two characters long",
+            "schemaPhone": "Phone field is required",
+            "schemaPhone2": "The phone must have at least 10 numbers and start with 05, 06, or 07.",
+            "schemaQuantity": "Quantity field is required",
+            "schemaQuantity2": "The quantity must be greater than 0",
+            "schemaTypeFee": "Connection type field is required",
+            "schemaAddress": "Address field is required",
+            "schemaAddress2": "",
+            "schemaState": "State field is required",
+            "schemaState2": "",
+            "schemaCity": "The municipality field is required",
+            "schemaCity2": "",
+
+
+            "label00": "shipping company",
+            "placeholder00": "Choose the delivery company",
+
+            "text01": "The request must be amended and these errors corrected:",
+
+            "label01": "full name",
+            "placeholder01": "full name",
+            "label02": "phone number",
+            "placeholder02": "phone number",
+            "label03": "State",
+            "placeholder03": "State",
+            "label04": "Municipality",
+            "placeholder04": "municipality",
+            "label05": "title",
+            "placeholder05": "address",
+            "label06": "Connection Type",
+            "placeholder06": "connection type",
+           
+            "labelSelect01": "Delivery to office",
+            "labelSelect02": "Home Delivery",
+
+            "label07": "quantity",
+            "placeholder07": "Quantity"
+        },
+        "updateUser": {
+            "alert01": "The profile has been modified",
+            "alert02": "Failed to edit profile",
+
+            "schemaFullName": "The name field is required",
+            "schemaFullName2": "The name must be at least two characters long",
+            "schemaPhone": "Phone field is required",
+            "schemaPhone2": "The phone must have at least 10 numbers and start with 05, 06, or 07.",
+            "schemaEmail": "E-mail field is required",
+            "schemaEmail2": "Email must be valid",
+            "schemaEmail3": "E-mail must be at least two characters long",
+
+            "label01": "full name",
+            "placeholder01": "full name",
+            "label02": "phone number",
+            "placeholder02": "phone number",
+            "label03": "State",
+            "placeholder03": "State",
+            "label04": "email",
+            "placeholder04": "email"
+        },
+        "updateSpreadsheet": {
+            "alert01": "Linking with Google Sheets removed",
+            "alert02": "Failed to unlink from Google Sheets",
+
+            "text01": "Google Sheets has been linked. Enter the ID for your spreadsheet below.",
+            "text02": "You can remove the link at any time you want. Do you want",
+            "button01": "Remove binding",
+            "text03": "Authenticate with permissions to link to Google Sheets",
+            "button02": "connect",
+
+            "label01": "The ID of your spreadsheet",
+            "placeholder01": "The ID for your spreadsheet"
+        },
+        "updatePasswordUser": {
+            "alert01": "Password has been modified",
+            "alert02": "Password modification failed",
+
+
+            "label01": "old password",
+            "placeholder01": "old password",
+            "label02": "new password",
+            "placeholder02": "new password",
+            "label03": "Confirm new password",
+            "placeholder03": "Confirm new password"
+        },
+        "updatePricesDelivery": {
+            "alert01": "Delivery prices have been modified",
+            "alert02": "Failed to modify delivery prices",
+
+
+            "label01": "State",
+            "placeholder01": "State",
+            "label02": "Office delivery price",
+            "placeholder02":"office delivery price",
+            "label03": "Home delivery price",
+            "placeholder03": "Home delivery price"
+        },
+        "addUsers": {
+            "alert01": "The account has been added",
+            "alert02": "Failed to add account",
+            "alert03": "This account exists",
+            "alert04": "This email exists",
+            "alert05": "This phone number already exists",
+
+            "schemaFullName": "The name field is required",
+            "schemaFullName2": "The name must be at least two characters long",
+            "schemaPhone": "Phone field is required",
+            "schemaPhone2": "The phone must have at least 10 numbers and start with 05, 06, or 07.",
+            "schemaEmail": "E-mail field is required",
+            "schemaEmail2": "Email must be valid",
+            "schemaEmail3": "E-mail must be at least two characters long",
+
+            "schemaPassword": "Password is required",
+            "schemaPassword2": "The password must be at least two characters long",
+
+            "label01": "full name",
+            "placeholder01": "full name",
+            "label02": "phone number",
+            "placeholder02": "phone number",
+            "label03": "State",
+            "placeholder03": "State",
+            "label04": "email",
+            "placeholder04": "email",
+            "label05": "role",
+            "placeholder05": "Choose role",
+            "labelSelect01": "administrator",
+            "labelSelect02": "Orders Confirmed",
+            "label06": "Password"
+        },
+        "updateUsers": {
+            "alert01": "The account has been modified",
+            "alert02": "Failed to modify account",
+
+            "schemaFullName": "The name field is required",
+            "schemaFullName2": "The name must be at least two characters long",
+            "schemaPhone": "Phone field is required",
+            "schemaPhone2": "The phone must have at least 10 numbers and start with 05, 06, or 07.",
+            "schemaEmail": "E-mail field is required",
+            "schemaEmail2": "Email must be valid",
+            "schemaEmail3": "E-mail must be at least two characters long",
+
+            "label01": "full name",
+            "placeholder01": "full name",
+            "label02": "phone number",
+            "placeholder02": "phone number",
+            "label03": "State",
+            "placeholder03": "State",
+            "label04": "email",
+            "placeholder04": "email",
+            "label05": "role",
+            "placeholder05": "Choose role",
+            "labelSelect01": "administrator",
+            "labelSelect02": "Orders Confirmed",
+            "label06": "Password"
+        },
+        "updateDesign": {
+            "card01": {
+                "title": "Top bar design",
+                "description": "top bar design"
+            },
+            "card02": {
+                "title": "Banner Design",
+                "description": "Banner Design"
+            },
+            "card03": {
+                "title": "Store Information",
+                "description": "store information"
+            }
+        },
+        "addTopBar": {
+            "alert01": "The top bar has been modified",
+            "alert02": "Failed to modify top bar",
+
+            "schemaContent": "Content field is mandatory",
+            "schemaContent2": "The content must be at least two characters long",
+            "schemaBackground": "Background field is required",
+            "schemaBackground2": "Background field is required",
+            "schemaColor": "Color field is required",
+            "schemaColor2": "Color field is required",
+
+            "label01": "Content",
+            "placeholder01": "Type content here",
+            "label02": "Content Color",
+            "placeholder02": "Choose content color",
+            "label03": "background color",
+            "placeholder03": "Choose background color",
+            "label04": "display status",
+            "placeholder04": "display status"
+        },
+        "addHeader": {
+            "alert01": "Banner has been modified",
+            "alert02": "Failed to edit banner",
+
+            "schemaContent": "Content field is mandatory",
+            "schemaContent2": "The content must be at least two characters long",
+            "schemaBackground": "Background field is required",
+            "schemaBackground2": "Background field is required",
+            "schemaColor": "Color field is required",
+            "schemaColor2": "Color field is required",
+
+            "label01": "images",
+            "text01Dropzone": "Drag an image or group of images here or click to select the image or group of images",
+            "text02Dropzone": "Attach an image or group of images, and the size of each image must not exceed 5 MB"
+        },
+        "updateStoreInfo": {
+            "alert01": "Store information has been modified",
+            "alert02": "Failed to modify store information",
+
+            "label01": "Logo Image",
+            "text01Dropzone": "Drag an image here or click to select the image",
+            "text02Dropzone": "Attach an image, the image size must not exceed 5MB",
+           
+            "label02": "Short Description",
+            "placeholder02": "short description",
+            "label03": "phone number and whatsapp",
+            "placeholder03": "phone number and whatsapp",
+            "label04": "email",
+            "placeholder04": "email",
+            "label05": "title",
+            "placeholder05": "address",
+            "label06": "Facebook account link",
+            "placeholder06": "Facebook account link",
+            "label07": "Instagram account link",
+            "placeholder07": "Instagram account link",
+            "label08": "Tiktok account link",
+            "placeholder08": "Tiktok account link",
+            "label09": "text color",
+            "placeholder09": "text color",
+            "label10": "background color",
+            "placeholder10": "background color"
+        }
+    },
+    "drawer": {
+        "product": {
+            "label01": "Product Name:",
+            "label02": "Price:",
+            "label03": "Price after discount:",
+            "label04": "Cost:",
+            "label05": "Weight:",
+            "label06": "Short Description:",
+            "label07": "Description:",
+            "label08": "Free Shipping:",
+            "label09": "Published:",
+            "label10": "Upsell Service:",
+            "label11": "Colors:",
+            "label12": "Sizes:",
+            "label13": "Main Categories:",
+            "label14": "Subcategories:",
+            "label15": "Offers:",
+            "label16": "Quantity:",
+            "label17": "Free Shipping:",
+            "kg": "kg"
+        },
+        "landingPage": {
+            "label01": "Product Name:",
+            "label02": "Price:",
+            "label03": "Cost:",
+            "label04": "Free Shipping:",
+            "label05": "Colors:",
+            "label06": "Sizes:",
+            "label07": "Offers:",
+            "label08": "Quantity:",
+            "label09": "Free Shipping:"
+        },
+        "order": {
+            "label01": "Product Name:",
+            "label02": "Customer Name:",
+            "label03": "Phone number:",
+            "label04": "Price:",
+            "label05": "Quantity:",
+            "label06": "Order Status:",
+
+            "badge01": "Pending",
+            "badge02": "confirmed",
+            "badge03": "rejected",
+            "badge04": "Request abandoned",
+
+            "label07": "Delivery price:",
+            "label08": "Order date:",
+            "label09": "Connection type:",
+
+            "badge05": "for home",
+            "badge06": "for office",
+
+            "label10": "State:",
+            "label11": "Municipality:",
+            "label12": "Title:",
+            "label13": "Delivery company:",
+            "label14": "Tracking code:",
+            "copyLabel": "copy",
+            "copiedLabel": "copied",
+            "label15": "Package label:",
+
+            "label16": "Colors:",
+            "label17": "Sizes:",
+            "label18": "Quantity:"
+        }
+    }
+  }

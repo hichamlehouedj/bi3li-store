@@ -1,0 +1,15 @@
+.idea
+.env
+node_modules
+.idea/.gitignore
+.idea/deployment.xml
+.idea/modules.xml
+.idea/server.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.vscode
+dist
+package-lock.json
+uploads/*
+logs/*
+service-account-file.json

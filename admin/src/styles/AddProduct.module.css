@@ -1,0 +1,15 @@
+.cardOffer {
+  border: 1px solid #efefef;
+  border-radius: 5px;
+  position: relative;
+  padding: 10px;
+  padding-top: 20px;
+  margin-top: 15px;
+}
+
+.btnOffer {
+  position: absolute;
+  top: -11px;
+  right: 10px;
+  z-index: 1;
+}

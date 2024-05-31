@@ -1,0 +1,54 @@
+.title {
+  max-width: fit-content;
+  position: relative;
+  font-size: 34px;
+  font-weight: 900;
+  margin-right: auto !important;
+  margin-left: auto !important;
+  
+  @media (max-width: 48em) {
+    font-size: 24px;
+  }
+}
+  
+.description {
+  margin: auto;
+
+  font-weight: 900;
+}
+
+.card {
+  border: 1px solid light-dark(var(--mantine-color-gray-1), var(--mantine-color-dark-5));
+  }
+  
+.cardTitle {
+  &::after {
+    content: '';
+    display: block;
+    background-color: #3c3c3f;
+    width: 45px;
+    height: 2px;
+    margin-top: var(--mantine-spacing-sm);
+  }
+}
+
+.categoryTitle {
+  &::after {
+    content: '';
+    display: block;
+    background-color: #3c3c3f;
+    width: 50%;
+    height: 2px;
+    margin-top: 4px;
+
+    
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: 300ms;
+  }
+
+  
+  &:hover::after {
+    width: 100%;
+  }
+}
